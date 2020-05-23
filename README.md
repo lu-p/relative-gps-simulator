@@ -7,7 +7,7 @@ It may seem a bit confusing to do some work to generate an output giving the exa
 
 What you have to do:
 
-• Provide your trajectory and velocity data in “ECI_state_leader.txt”, "ECI_state_follower.txt", "LVLH_state_follower.txt" (data format is suggested in the first rows of the files),
+• Provide your trajectory and velocity data in “ECI_state_leader.txt”, "ECI_state_follower.txt" (data format is suggested in the first rows of the files),
 
 • Set GPS noise in "rgps_initialization.m",
 
