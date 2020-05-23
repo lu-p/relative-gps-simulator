@@ -6,7 +6,7 @@ clc
 % Matlab code imports data from gmat, initializes variables, checks data, launches simulink, add noise, visualizes results
 % Simulink model computes receiver vectors, solve nonlinear gps system for leader and follower indipendently, subtracts solutions, transforms from ECI to LVLH
 
-ti=1352988; % initial simulation time [s]
+ti=0; % initial simulation time [s]
 tf=ti+5600; % final simulation time [s]
 dt=1; % simulation time step [s]
 simulation_time=(ti:dt:tf)';
