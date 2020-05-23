@@ -1,4 +1,4 @@
 delete all words in this script and write your leader data using the following format:
 
 
-time	X_ECI    Y_ECI    Z_ECI    VX_ECI   VY_ECI   VZ_ECI   
+time[s]     	X_ECI[km]    Y_ECI[km]       Z_ECI[km]        VX_ECI[km/s]      VY_ECI[km/s]      VZ_ECI[km/s]  
