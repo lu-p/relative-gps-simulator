@@ -1,4 +1,0 @@
-delete all words in this script and write your follower data using the following format:
-
-
-leader Earth true anomaly (TA)           time[s]		Follower X_LVLH[km]     Follower_Y_LVLH[km]     Follower_Z_LVLH[km]     Follower_VX_LVLH[km/s]    Follower_VY_LVLH[km/s]    Follower_VZ_LVLH[km/s]
