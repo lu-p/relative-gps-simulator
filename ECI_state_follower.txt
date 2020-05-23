@@ -1,0 +1,4 @@
+delete all words in this script and write your follower data using the following format:
+
+
+time	X_ECI    Y_ECI    Z_ECI    VX_ECI   VY_ECI   VZ_ECI   
