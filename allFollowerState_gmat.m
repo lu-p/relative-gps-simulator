@@ -3,7 +3,7 @@ function [follower_gmat_interp, follower_gmat_interp_v] = allFollowerState_gmat(
 
 % IMPORT FOLLOWER DATA
 fileID = fopen('ECI_state_follower.txt','r');
-follower_gmat = fscanf(fileID,'%f', [7,15787]);
+follower_gmat = fscanf(fileID,'%f', [7,inf]);
 fclose(fileID);
 follower_gmat=follower_gmat';
 
