@@ -11,7 +11,7 @@ tf=ti+5600; % final simulation time [s]
 dt=1; % simulation time step [s]
 simulation_time=(ti:dt:tf)';
 
-noise_int=1/10; % noise intensity of gps sensor [fraction of position estimate]
+noise_int=1/10; % noise intensity of gps sensor [fraction of position estimate] how noisy is your gps sensor?
 
 %% GPS CONSTELLATION IN ECI FROM GMAT
 % GPS data do not depend on intial and final time, but only on the length of the simulation time
